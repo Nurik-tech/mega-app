@@ -1,16 +1,80 @@
-# stockmarketapp
+# Stock Market App
 
-A new Flutter project.
+A Flutter mobile application that integrates stock market APIs and financial news APIs to display real-time market information, company data, and financial news.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## About The Project
 
-A few resources to get you started if this is your first Flutter project:
+I built this project to improve my experience with mobile development, API integration, asynchronous data handling, and responsive UI design using Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The app fetches stock market information and displays market-related news in a clean mobile interface.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Tech Stack
+
+- Flutter
+- Dart
+- REST APIs
+- Stock Market API
+- News API
+
+---
+
+## Features
+
+- Real-time stock market data
+- Financial news integration
+- Responsive mobile UI
+- API data fetching
+- Company information display
+- Mobile-focused user experience
+
+---
+
+## Screenshot
+
+Add your application screenshot here.
+
+Example:
+```md
+![App Screenshot](./stock-app.png)
+```
+
+---
+
+## Running The Project
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+Run the application:
+
+```bash
+flutter run
+```
+
+---
+
+## What I Learned
+
+While building this project, I improved my experience with:
+- Flutter mobile development
+- API integration
+- asynchronous data handling
+- responsive mobile UI design
+- working with external data sources
+
+---
+
+## Contact
+
+Portfolio:
+https://anurika.dev
+
+GitHub:
+https://github.com/Nurik-tech
