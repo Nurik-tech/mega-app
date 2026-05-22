@@ -39,7 +39,7 @@ Add your application screenshot here.
 
 Example:
 ```md
-![Stock Market App Screenshot](./screenshots/stock-png.png)
+![Stock Market App Screenshot](./screenshots/stock-app.png)
 ```
 
 ---
