@@ -35,12 +35,7 @@ The app fetches stock market information and displays market-related news in a c
 
 ## Screenshot
 
-Add your application screenshot here.
-
-Example:
-```md
 ![Stock Market App Screenshot](./screenshots/stock-app.png)
-```
 
 ---
 
